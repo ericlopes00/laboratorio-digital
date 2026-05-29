@@ -1,4 +1,4 @@
-📐 Calculadora Geométrica Interativa em C
+# Calculadora Geométrica Interativa em C
 Criei esse projeto para treinar lógica e, principalmente, como organizar meu código usando funções (modularização). É um programa rodando direto no terminal que calcula a área de quadrado, círculo e retângulos de um jeito bem interativo. O que uso para fazer:
 
 -Funções com retorno: Usei para separar as contas de cada área ( areaQ, areaC, areaR) e não deixar mainbagunçada.
